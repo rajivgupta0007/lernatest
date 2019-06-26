@@ -1,10 +1,10 @@
 {
   "name": "@walnut/server",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@walnut/common": "^1.0.7",
+    "@walnut/common": "^1.0.8",
     "graphql-yoga": "^1.18.0"
   },
   "scripts": {
